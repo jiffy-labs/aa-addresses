@@ -33,9 +33,9 @@ bash
 
 `git clone https://github.com/jiffy-labs/jiffyscan-frontend.git`
 
-and switch to the branch ui-work
+and switch to the branch main
 
-`git switch ui-work && git pull`
+`git switch main && git pull`
 
 Once you have the code, you can install the dependencies by running:
 
