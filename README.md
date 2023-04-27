@@ -1,27 +1,25 @@
 # Introduction 
 
-This repo will be used to keep a track of different
+This repo is to track addresses of different entities deployed to support 4337 ecosystem. These primarily are:
 1. Bundlers
 2. Paymasters
 3. Factories
 
-That are present in the ERC-4337 ecosystem. 
+## Branding
+Based on the details present here, branding for the component or smart wallet will be shown in the [JiffyScan](https://app.jiffyscan.xyz/) Userop Explorer.
 
-This repo will curently be used to populate the different brand in jiffyscan 
-
-Example usage:
-- Company references an account - https://beta.jiffyscan.xyz/account/0xD0eA8249F56bB0B9E13B1f2eEDEf756C79CbE450?network=goerli
-- Company references in user op hash 
-    -  https://beta.jiffyscan.xyz/account/0xD0eA8249F56bB0B9E13B1f2eEDEf756C79CbE450?network=goerli
+### Branding Examples
+- Showing Wallet for an account using factory: https://beta.jiffyscan.xyz/account/0xD0eA8249F56bB0B9E13B1f2eEDEf756C79CbE450?network=goerli
+- Showing Wallet, Paymaster & Bundler Branding for a UserOp:
     -  https://beta.jiffyscan.xyz/userOpHash/0x91df4c29b995214b6ca0a308a327f9a32239dd4179e306ddf007bb8ad6850b97?network=matic
-- Company refrencees in bundler page - https://beta.jiffyscan.xyz/bundler/0x67b4a9832dfbec071319e492f70e582ee316afc0?network=matic
+    -  https://beta.jiffyscan.xyz/account/0xD0eA8249F56bB0B9E13B1f2eEDEf756C79CbE450?network=goerli
+- Showing a branding at a bundler page - https://beta.jiffyscan.xyz/bundler/0x67b4a9832dfbec071319e492f70e582ee316afc0?network=matic
 - Etc... 
 
-The example links are just references. But the point of this mapping is so that different parties can use the information for their applications and analytics. 
+## Contributions
 
-# How to contribute ?
-
-It would be great if companies and projects could 
+Support from the community in maintaining this list is not only appreciated, but very-much needed to have an exhaustive list.
+Add the details of on-chain components by updating the following files:
 - Add to the list of bundlers, paymasters and factories in `addressMapping.json`.
 - Add their svg logo into the logos folder.
 
