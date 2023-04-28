@@ -29,7 +29,7 @@ Before you start contributing, make sure you have the latest version of the code
 
 bash
 
-`git clone https://github.com/jiffy-labs/jiffyscan-frontend.git`
+`git clone https://github.com/jiffy-labs/aa-addresses.git`
 
 and switch to the branch main
 
