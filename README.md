@@ -35,10 +35,6 @@ and switch to the branch main
 
 `git switch main && git pull`
 
-Once you have the code, you can install the dependencies by running:
-
-`npm install` 
-
 # Pull requests
 
 If you want to contribute to the project by adding addressed and logos, please submit a pull request. Here's how:
@@ -50,7 +46,7 @@ If you want to contribute to the project by adding addressed and logos, please s
 - Push your branch to your forked repository.
 - Open a pull request from your branch to the main branch of the original repository.
 
-When submitting a pull request, please include a clear description of your changes. 
+When submitting a pull request, please follow the format of this [sameple PR](https://github.com/jiffy-labs/aa-addresses/pull/2)
 
 
 
