@@ -6,8 +6,14 @@
             "FACTORIES": ["0xb73eb505abc30d0e7e15b73a492863235b3f4309"]
         },
         "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789": {
-            "BUNDLERS": ["0xbdbc5fbc9ca8c3f514d073ec3de840ac84fc6d31"],
-            "PAYMASTERS": ["0xf4419be44d713b62eb344531662d173e20fe584f"],
+            "BUNDLERS": [
+                "0xbdbc5fbc9ca8c3f514d073ec3de840ac84fc6d31",
+                "0x3cfDc212769c890907bcE93D3d8C2c53dE6a7a89"
+            ],
+            "PAYMASTERS": [
+                "0xf4419be44d713b62eb344531662d173e20fe584f",
+                "0x7e3393ebA62DA6f555a5341E079e0F6585CE8c56"
+            ],
             "FACTORIES": ["0xb73eb505abc30d0e7e15b73a492863235b3f4309"]
         }
     },
