@@ -65,5 +65,16 @@
         "0x0576a174D229E3cFA37253523E645A78A0C91B57": {
             "PAYMASTERS": ["0x5A16827a552BF694c9B5F3Cfb003B65C25D31401"]
         }
+    },
+    "ZERODEV_KERNEL": {
+         "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789": {
+            "FACTORIES": [
+                "0xaee9762ce625e0a8f7b184670fb57c37bfe1d0f1",
+                "0x4e4946298614fc299b50c947289f4ad0572cb9ce",
+                "0x19b03a419124b77a7659a0fdab7903c6f40183e5",
+                "0x5de4839a76cf55d0c90e2061ef4386d962E15ae3",
+                "0x33ddf684dcc6937ffe59d8405aa80c41fb518c5c"
+            ]
+        }
     }
 }
